@@ -4,6 +4,8 @@
 
 [In Remembrance of Troubafort](declaration_of_independence.md)
 
+[Guitar Tutorial](https://youtu.be/skmKvvsMAfE)
+
 ## Social Media
 
 [Twitter](https://twitter.com/18Troubadours)

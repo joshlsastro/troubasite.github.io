@@ -1,8 +1,4 @@
-# The Troubasite 
-
-<noscript><h2>Please Enable JavaScript</h2></noscript>
-<a id="prank" href="//joshlsastro.github.io/pranks/2019/">Click me</a>
-<script type="text/javascript">document.getElementById("prank").click();</script>
+# The Troubasite
 
 [Cody's Pictures](https://drive.google.com/drive/folders/1vj9CeGK_lgC9bpy7wcG0036J_qaFGjV8)
 

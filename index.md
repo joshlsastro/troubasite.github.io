@@ -1,5 +1,9 @@
 # The Troubasite
 
+## [Future of this Site](troubasite_future.md)
+
+## Links
+
 [Cody's Pictures](https://drive.google.com/drive/folders/1vj9CeGK_lgC9bpy7wcG0036J_qaFGjV8)
 
 [In Remembrance of Troubafort](declaration_of_independence.md)

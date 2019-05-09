@@ -15,7 +15,7 @@ Markdown is plain text with some bells and whistles attached to make it suitable
 ![Troubadours logo](favicon.ico)  
 In fact, what you're reading *right now* is in Markdown. You can find the Markdown for this page [here](https://raw.githubusercontent.com/troubasite/troubasite.github.io/master/troubasite_future.md). Here's some resources for learning Markdown:
 
-* [Interactive tutorial](https://commonmark.org/help/tutorial/)
+* [Small Cheatsheet with interactive tutorial](https://commonmark.org/help)
 * [Exhaustive Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 

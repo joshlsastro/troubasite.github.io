@@ -4,7 +4,7 @@
 
 Hello. It's the Troubasite maintainer. Since I will be leaving Troubadours this year, the future of the Troubasite is ~~somewhat~~ completely uncertain. If you're interested in helping out, please read below.
 
-# How to Take Over the ~~World~~ Troubasite (Ignore This Section)
+# How to Take Over the ~~World~~ Troubasite
 
 You need the following to maintain the Troubasite:  
 * A desktop computer or laptop

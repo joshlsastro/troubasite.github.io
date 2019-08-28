@@ -1,13 +1,15 @@
 # The Troubafuture of the Troubasite
 
-Hello. It's the Troubasite maintainer. Since I will be leaving Troubadours this year, the future of the Troubasite is somewhat uncertain. If no one becomes the maintainer next year, the Troubasite will go down on Saturday, May 25. It will be archived at [https://joshlsastro.github.io/troubasite](//joshlsastro.github.io/troubasite). ~~If you're interested in taking over, please read below.~~ GitHub forbids sharing logins, so I can't give this account to someone else. This means that there will be no Troubasite next year.
+**Update: I found a feature over the summer known as GitHub Organizations. It should allow me to work with someone else on the website in a similar fashion to Google Docs. If you're interested in seeing this website become active again, please contact me.**
+
+Hello. It's the Troubasite maintainer. Since I will be leaving Troubadours this year, the future of the Troubasite is ~~somewhat~~ completely uncertain. If you're interested in helping out, please read below.
 
 # How to Take Over the ~~World~~ Troubasite (Ignore This Section)
 
 You need the following to maintain the Troubasite:  
 * A desktop computer or laptop
-* You must be able to use Markdown. If you can't, it is very easy to learn, like Google Docs easy to learn. 
-* You need to be willing to use your email as the one for the Troubasite GitHub account (GitHub does not send spam). 
+* You must be able to use Markdown. If you can't, it is very easy to learn, like Google Docs easy to learn.
+* You will need a GitHub account. Signing up is free.
 
 ## Markdown
 
@@ -21,10 +23,10 @@ In fact, what you're reading *right now* is in Markdown. You can find the Markdo
 
 ## Help
 
-I should be able to help you with the site, especially early in the year. GitHub is built for collaboration, so I can help fix something if you mess it up. 
+I should be able to help you with the site, especially early in the year. GitHub is built for collaboration, so I can help fix something if you mess it up.
 
 # Goodbye
 
-Troubadours has been a lot of fun. I wish you guys the best of luck. 
+Troubadours has been a lot of fun. I wish you guys the best of luck.
 
 Be curious!
